@@ -1,0 +1,22 @@
+{
+  "name": "trade",
+  "version": "1.0.0",
+  "description": "Trading API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohabashraf/trade.git"
+  },
+  "keywords": [
+    "task"
+  ],
+  "author": "Mohab Nazmy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohabashraf/trade/issues"
+  },
+  "homepage": "https://github.com/mohabashraf/trade#readme"
+}
