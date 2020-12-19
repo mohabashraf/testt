@@ -1,7 +1,7 @@
 const express = require('express');
 // const userRouter = require('./controller/user');
 // const stockRouter = require('./controller/user');
-// const transactionRouter = require('./controller/user');
+const transactionRouter = require('./controller/user');
 const app = express();
 
 app.use(express.json())
